@@ -18,6 +18,17 @@ So I'm sharing this little personal project.
 
 # USING
 
-## Beginning
-In a terminal you can just launch the project using these commands : ```python3 (or other version) proj_seq4_final.py``` <br />
-You can also launch it in the python IDE (GUI) or in a code editor (like vscode).
+## Launching 
+In a terminal you can just launch the project using these commands : `python3 (or other version) proj_seq4_final.py` <br />
+
+You can also launch it in the python IDE or in a code editor (like vscode).
+
+<br />
+
+
+## How it works 
+
+You have three choices which are : 
+1. Quitter
+2. Ecrire dans le répertoire
+3. Rechercher dans le répertoire
