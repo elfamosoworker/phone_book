@@ -12,3 +12,10 @@ Je partage donc de petit projet personnel.
 I did this project when I was in High School (in 2019-2020) and I was learning python via the INS (IT Numeric Science) option of my high school.
 <br />
 So I'm sharing this little personal project.
+
+<br />
+
+
+# USING
+
+You can launch it with python in a terminal (CLI) or in the IDE (GUI) or in a code editor (like vscode).
