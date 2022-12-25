@@ -3,7 +3,7 @@
 # FR
 J'ai fait ce projet lorsque j'étais en Terminale (en 2019-2020) et que j'apprenais le python via l'option ISN (Informatique et Science du numérique) de mon lycée.
 <br />
-Je partage donc de petit projet personnel.
+Je partage donc ce petit projet personnel.
 
 <br />
 
@@ -18,4 +18,6 @@ So I'm sharing this little personal project.
 
 # USING
 
-You can launch it with python in a terminal (CLI) or in the IDE (GUI) or also in a code editor (like vscode).
+## Beginning
+In a terminal you can just launch the project using these commands : ```python3 (or other version) proj_seq4_final.py``` <br />
+You can also launch it in the python IDE (GUI) or in a code editor (like vscode).
