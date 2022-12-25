@@ -18,4 +18,4 @@ So I'm sharing this little personal project.
 
 # USING
 
-You can launch it with python in a terminal (CLI) or in the IDE (GUI) or in a code editor (like vscode).
+You can launch it with python in a terminal (CLI) or in the IDE (GUI) or also in a code editor (like vscode).
