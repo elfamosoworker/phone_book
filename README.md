@@ -7,28 +7,18 @@ Je partage donc ce petit projet personnel.
 
 <br />
 
-# EN
 
-I did this project when I was in High School (in 2019-2020) and I was learning python via the INS (IT Numeric Science) option of my high school.
-<br />
-So I'm sharing this little personal project.
+## Lancement 
+Dans un terminal vous pouvez lancer la commande suivante (à condition d'avoir installé python) : `python3 proj_seq4_final.py` <br />
 
-<br />
-
-
-# USING
-
-## Launching 
-In a terminal you can just launch the project using these commands : `python3 (or other version) proj_seq4_final.py` <br />
-
-You can also launch it in the python IDE or in a code editor (like vscode).
+Vous pouvez également le lancer depuis python IDE ou depuis vscode
 
 <br />
 
 
-## How it works 
+## Comment ça marche
 
-You have three choices which are : 
+Vous avez 3 choix qui sont : 
 1. Quitter
 2. Ecrire dans le répertoire
 3. Rechercher dans le répertoire
