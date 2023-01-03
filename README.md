@@ -1,6 +1,5 @@
 # phone_book
 
-# FR
 J'ai fait ce projet lorsque j'étais en terminale (en 2019-2020) et que j'apprenais le python via l'option ISN (Informatique et Science du numérique) de mon lycée.
 <br />
 Je partage donc ce petit projet personnel.
