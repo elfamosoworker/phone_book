@@ -8,21 +8,14 @@ Je partage donc ce petit projet personnel.
 
 
 ## Lancement 
-Dans un terminal il vous faudra suivre les étapes suivantes : <br />
+Il vous faudra suivre les étapes suivantes : <br />
 
-1. Cloner le répo git en HTTPS ou en SSH : 
-   - HTTPS :  `git clone https://github........`
-   - SSH (il vous faudra une clé ssh au préalable):  `git clone git@github.......` 
+1. Télécharger le fichier python repertoire.py
 
-<br />
-
-2. Naviguer dans ce projet git en ligne de commande : 
-   - `cd ~/le_chemin_du_repo_git/`
-
-<br />
+2. Installer python
 
 3. Lancer la commande suivante avec la version de python que vous souhaitez (à condition d'avoir installé python) : 
-   - `python3 proj_seq4_final.py` <br />
+   - `python3 repertoire.py` <br />
 
 <br />
 
