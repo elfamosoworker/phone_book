@@ -30,6 +30,10 @@ Il vous faudra suivre les étapes suivantes : <br />
 <br />
 
 Vous avez 3 choix qui sont : 
-1. Quitter
+1. Quitter 
+   1.1 Cela ferme le jeu.
 2. Ecrire dans le répertoire
+   2.1 Il faut rentrer le nom de la personne.
+   2.2 Il faut rentre le numéro qui lui appartient.
 3. Rechercher dans le répertoire
+   3.1 On peut rechercher le numéro/le nom de la personne et cela nous donne respectivement le nom/le numéro associé.
