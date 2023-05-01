@@ -14,8 +14,9 @@ Il vous faudra suivre les étapes suivantes : <br />
 
 2. Installer python
 
-3. Lancer la commande suivante avec la version de python que vous souhaitez (à condition d'avoir installé python) : 
-   - `python3 repertoire.py` <br />
+3. Lancer le fichier python (pas besoin d'être admin)
+
+4. Et voilà !
 
 <br />
 
