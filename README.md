@@ -1,11 +1,7 @@
 # phone_book
+Petit projet de répertoire téléphonique. Ce petit script python permet d'enregistrer des numéros de téléphones et de les chercher via un nom ou un numéro.
 
-J'ai fait ce projet lorsque j'étais en terminale (en 2019-2020) et que j'apprenais le python via l'option ISN (Informatique et Science du numérique) de mon lycée.
-<br />
-Je partage donc ce petit projet personnel.
-
-<br />
-
+<br>
 
 ## Lancement 
 Il vous faudra suivre les étapes suivantes : <br />
